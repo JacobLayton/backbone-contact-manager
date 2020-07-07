@@ -1,14 +1,17 @@
-Backbone Contact Manager
-========================
+# Backbone Contact Manager
 
 Simple Backbone.js example application
+
 ## Demo
+
 http://dmytroyarmak.github.io/backbone-contact-manager
 
 ## Slides
+
 http://dmytroyarmak.github.io/codeangels-backbone-introduction
 
 ## Tutorial
+
 - [Step 0 - Initialization of project](https://github.com/dmytroyarmak/backbone-contact-manager/releases/tag/step-0)
 - [Step 1 - Add dependencies](https://github.com/dmytroyarmak/backbone-contact-manager/releases/tag/step-1)
 - [Step 2 - Contact Model](https://github.com/dmytroyarmak/backbone-contact-manager/releases/tag/step-2)
@@ -23,3 +26,5 @@ http://dmytroyarmak.github.io/codeangels-backbone-introduction
 ## Next lesson
 
 https://github.com/dmytroyarmak/marionette-contact-manager
+
+<!--   Initial Commit -->
